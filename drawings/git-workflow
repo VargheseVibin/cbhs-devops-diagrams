@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T07:35:44.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="31CDd8DNggVfzAH2htCD" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T07:36:17.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ATMKq5X0w8CdiQ0xnreh" version="17.4.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="gitflow">
     <mxGraphModel dx="1422" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             <mxPoint x="680" y="135" as="targetPoint" />
             <mxPoint x="240" y="135" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cLOWPsUN1dOCNj53pMMk-204" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="29" target="cLOWPsUN1dOCNj53pMMk-202">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="389.97" y="125" width="20" height="20" as="geometry" />
@@ -113,7 +116,7 @@
         <mxCell id="7" value="master" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cLOWPsUN1dOCNj53pMMk-191" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4" target="7">
+        <mxCell id="cLOWPsUN1dOCNj53pMMk-191" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" edge="1" parent="1" source="cLOWPsUN1dOCNj53pMMk-202" target="7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="70" as="sourcePoint" />
             <mxPoint x="640" y="70" as="targetPoint" />
@@ -143,6 +146,16 @@
         </mxCell>
         <mxCell id="cLOWPsUN1dOCNj53pMMk-201" value="auto-trigger into Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="60" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLOWPsUN1dOCNj53pMMk-202" value="1.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cLOWPsUN1dOCNj53pMMk-203" value="" style="endArrow=none;dashed=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4" target="cLOWPsUN1dOCNj53pMMk-202">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="70" as="sourcePoint" />
+            <mxPoint x="490" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

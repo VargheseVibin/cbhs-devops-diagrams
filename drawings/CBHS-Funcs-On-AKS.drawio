@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T06:37:52.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0gTEA7aaxIl2xgfaEAqE" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-24T06:38:25.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Oc31g1Wg11Mxup4sKPC4" version="20.0.3" type="github" pages="2">
   <diagram id="B-xTYxZRHEIcrXihRpr2" name="Page-1">
     <mxGraphModel dx="1108" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           <mxGeometry x="433" y="102" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zoU-V4DYlTAnz8GlKzXY-2" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="681" y="102" width="30" height="33.35" as="geometry" />
+          <mxGeometry x="394" y="102" width="30" height="33.35" as="geometry" />
         </mxCell>
         <mxCell id="6A24fCVodx93bReAHT-6-1" value="Run Build" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="433" y="142" width="230" height="30" as="geometry" />
@@ -121,13 +121,13 @@
           <mxGeometry x="433" y="222" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LIAIv1FvE3u3xtzXWDye-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;image=https://kdoko.gallerycdn.vsassets.io/extensions/kdoko/test-coverage-sprint/1.0.144/1589917497078/Microsoft.VisualStudio.Services.Icons.Default;" parent="1" vertex="1">
-          <mxGeometry x="676" y="217" width="40" height="40" as="geometry" />
+          <mxGeometry x="389" y="217" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n8-KGqtIw98vFPPKY3Md-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/devops/continuous_testing.svg;" parent="1" vertex="1">
-          <mxGeometry x="681" y="182" width="30" height="30" as="geometry" />
+          <mxGeometry x="394" y="182" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8-KGqtIw98vFPPKY3Md-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/humility-icons-MERGE/48x48/apps/control-center2.png" parent="1" vertex="1">
-          <mxGeometry x="681" y="139.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="394" y="139.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="74WPSPV6ynjwL-TGeNT2-1" value="Dockerize Application" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="149" height="30" as="geometry" />

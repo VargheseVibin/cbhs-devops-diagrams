@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T04:40:53.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="s_evD8OQFV6yEPpz522d" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:14:45.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vt9AkRkg15qyn7cPTq98" version="20.0.3" type="github" pages="2">
   <diagram id="B-xTYxZRHEIcrXihRpr2" name="Page-1">
     <mxGraphModel dx="1021" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -158,6 +158,15 @@
         </mxCell>
         <mxCell id="29ccrQ8JE8f8gKe2AGXl-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="518" y="241.6" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="29ccrQ8JE8f8gKe2AGXl-8" value="Microservices&amp;nbsp;&lt;br&gt;Az Funcs on AKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29ccrQ8JE8f8gKe2AGXl-9" value="Forte&lt;br&gt;Windows Client App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29ccrQ8JE8f8gKe2AGXl-10" value="Webservices(REST, SOAP), &lt;br&gt;Websites(MC, JO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="470" width="167.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
